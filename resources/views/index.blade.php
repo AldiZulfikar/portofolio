@@ -170,7 +170,7 @@
 						person, also honest individual. I'm a good timekeeper and always willing to learn new skills.
 						I'm interested in programming language and love as a Back-End Developer.
 					</p>
-					<a href="{{ asset('CV.pdf') }}" class="btn-1 outer-shadow hover-in-shadow">Download CV</a>
+					<a href="{{ asset('CV-Aldi Zulfikar.pdf') }}" target="_blank" class="btn-1 outer-shadow hover-in-shadow">Download CV</a>
 					<a href="#contact" class="link-item btn-1 outer-shadow hover-in-shadow">Hire Me</a>
 				</div>
 			</div>
@@ -433,31 +433,42 @@
 				<div class="portofolio-item" data-category="web-aplication">
 					<div class="portofolio-item-inner outer-shadow">
 						<div class="portofolio-item-img">
-							<img src="img/portfolio/thumb/project-puslitpen.jpg" alt="portfolio" data-screenshots="img/portfolio/large/project-2/1.png,
+							<img src="img/portfolio/thumb/project-pethero.png" alt="portfolio" data-screenshots="img/portfolio/large/project-2/1.png,
 								img/portfolio/large/project-2/2.png" />
 							<!--view project button-->
-							<span class="details-project">Client : Ummie Masruroh | On Process</span><br>
+							<span class="details-project">Hakathon | Date : 05-11-2021</span><br>
 						</div>
-						<a href="#" class="view-project">View Project</a>
+						<a href="https://meraki-pethero.herokuapp.com/" target="_blank" class="view-project">View Project</a>
+						<p class="portofolio-item-title">Platform Pet Hero</p>
+					</div>
+				</div>
+				<!--portofolio item end-->
+
+				<!--portofolio item start-->
+				<div class="portofolio-item" data-category="web-aplication">
+					<div class="portofolio-item-inner outer-shadow">
+						<div class="portofolio-item-img">
+							<img src="img/portfolio/thumb/project-puslitpen.png" alt="portfolio" data-screenshots="img/portfolio/large/project-2/1.png,
+								img/portfolio/large/project-2/2.png" />
+							<!--view project button-->
+							<span class="details-project">Ummie Masruroh | Date : 31-10-2021</span><br>
+						</div>
+						<a href="https://siapp.uinjkt.ac.id/" class="view-project" target="_blank">View Project</a>
 						<p class="portofolio-item-title">Puslitpen UIN Jakarta</p>
 					</div>
 				</div>
 				<!--portofolio item end-->
 
-				<!--portofolio item start
+				<!--portofolio item start-->
 				<div class="portofolio-item" data-category="web-aplication">
 					<div class="portofolio-item-inner outer-shadow">
 						<div class="portofolio-item-img">
-							<img src="img/portfolio/thumb/project-3.png" alt="portfolio" data-screenshots="img/portfolio/large/project-3/1.png,
-								img/portfolio/large/project-3/2.png,
-								img/portfolio/large/project-3/3.png,
-								img/portfolio/large/project-3/4.png,
-								img/portfolio/large/project-3/5.png" />
-							<!--view project button-
-							<span class="details-project">Client : Himti Dev | Date: 01-06-2021</span><br>
+							<img src="img/portfolio/thumb/project-howiday.png" alt="portfolio"/>
+							<!--view project button-->
+							<span class="details-project">HIMTI Dev | Date: 05-06-2021</span><br>
 						</div>
-						<a href="#" class="view-project">View Project</a>
-						<p class="portofolio-item-title">Product Landing Page</p>
+						<a href="https://howiday.herokuapp.com/" target="_blank" class="view-project">View Project</a>
+						<p class="portofolio-item-title">Platform Howiday</p>
 					</div>
 				</div>
 				<!--portofolio item end-->
@@ -466,7 +477,7 @@
 				<div class="portofolio-item" data-category="web-aplication">
 					<div class="portofolio-item-inner outer-shadow">
 						<div class="portofolio-item-img">
-							<img src="img/portfolio/thumb/project-klinik1.jpg" alt="portfolio"/>
+							<img src="img/portfolio/thumb/project-klinik.jpg" alt="portfolio"/>
 							<!--view project button-->
 							<span class="details-project">Client: Pramesti | Date: 05-06-2021</span><br>
 						</div>
