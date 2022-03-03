@@ -308,7 +308,7 @@
 										<span>2019 - present</span>
 										<h3>UIN Syarif Hidayatullah Jakarta</h3>
 										<p>Bachelor Of Informatics Engineering</p>
-										<p>GPA: 3.9 (Temporary)</p>
+										<p>GPA: 3.92 (Temporary)</p>
 									</div>
 								</div>
 								<!--timeline item end-->
@@ -474,7 +474,7 @@
 				<!--portofolio item end-->
 				
 				<!--portofolio item start-->
-				<div class="portofolio-item" data-category="web-aplication">
+				{{-- <div class="portofolio-item" data-category="web-aplication">
 					<div class="portofolio-item-inner outer-shadow">
 						<div class="portofolio-item-img">
 							<img src="img/portfolio/thumb/project-klinik.jpg" alt="portfolio"/>
@@ -484,7 +484,7 @@
 						<a href="http://kliniknurazizah.epizy.com/?i=1" class="view-project">View Project</a>
 						<p class="portofolio-item-title">Klinik Nur Azizah</p>
 					</div>
-				</div>
+				</div> --}}
 				<!--portofolio item end-->
 			</div>
 		</div>
@@ -504,13 +504,13 @@
 					<div class="testi-slider outer-shadow">
 						<div class="testi-slider-container">
 							<!-- testi item start -->
-							<div class="testi-item active">
+							{{-- <div class="testi-item active">
 								<i class="fas fa-quote-left left"></i>
 								<i class="fas fa-quote-right right"></i>
 								<p>At all good, dengan harga terjangkau bisa dapat webisite klinik yang bagus seperti ini</p>
 								<img src="img/testimonial/1.png" alt="testimonial">
 								<span>Pramesti</span>
-							</div>
+							</div> --}}
 							<!-- testi item end -->
 							<!-- testi item start -->
 							<div class="testi-item">
